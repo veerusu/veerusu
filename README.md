@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there troublemakers! 👋
+- ⚡ Fun fact: The "fox" in Mozilla Firefox is a red panda.
 
 <!--
 **veerusu/veerusu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
